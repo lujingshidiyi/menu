@@ -11,3 +11,4 @@ menu--What should we eat tomorrow?
 7.炒土豆丝
 8.豆芽炒粉丝
 9.咖喱鸡
+10.鸡汤
