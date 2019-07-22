@@ -13,3 +13,7 @@ menu--What should we eat tomorrow?
 9.咖喱鸡
 10.鸡汤
 11.黄焖鸡
+12.孜然羊肉
+13.各种焖饭
+14.锅包肉
+
