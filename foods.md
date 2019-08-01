@@ -18,3 +18,5 @@ menu--What should we eat tomorrow?
 14.锅包肉
 15.电饭锅焗鸡
 16.烤茄子
+17.鱼香肉丝
+18.生菜
